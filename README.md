@@ -1,3 +1,3 @@
 # WebPage-FastFood-TugasKuliah
 
-Tugas Kuliah Basis Data FastFood WebPage
+College Project Database - FastFood WebPage
