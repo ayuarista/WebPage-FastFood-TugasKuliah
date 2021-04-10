@@ -1,1 +1,3 @@
-# fast-food-page
+# WebPage-FastFood-TugasKuliah
+
+Tugas Kuliah Basis Data FastFood WebPage
