@@ -1,0 +1,100 @@
+ .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+    
+    /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+    .row.content {height: 450px}
+    
+    /* Set gray background color and 100% height */
+    .sidenav {
+      padding-top: 20px;
+      background-color: #2d2d30;
+      height: 100%;
+    }
+    
+    /* Set black background color, white text and some padding */
+
+.bg-1 {
+    background: #2d2d30;
+    color: #bdbdbd;
+}
+    
+    
+.sidebar
+    {   width: auto;
+        background: #2d2d30;
+        height:400px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+.sidebar_tittle
+{
+    background: white;
+    color: black;
+    font-size: 40px;
+}
+
+.sidebar_kat
+{
+    background: white;
+    color: black;
+    font-size: 40px;
+
+.content
+    {  
+        width: auto;
+        padding-top: 30px;
+        background: #2d2d30;
+        max-height: 1000px;
+        margin-left: 30px;
+        padding-bottom: 30px;
+    }
+
+.category
+{
+
+}
+
+.produk {
+    float: left;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.kategori
+{
+    text-align: left;
+    padding: 0px;
+}
+
+.kategori li{list-style: none;
+            display: grid;
+           }
+.kategori a{color:black;
+            padding-top:10px;
+            margin:12px;
+             font-size: 20px;
+            }
+.kategori a:hover{color:grey;
+            padding-top:20px;
+            margin:12px;
+    font-size: 20px;
+    text-decoration: underline;
+            }
+
+
+#shopping_cart { width: 800px height:50px; background:black; color: white; }
+
+.bg-1 {
+    background: #2d2d30;
+    color: #bdbdbd;
+
+footer {
+      background-color: #2d2d30;
+      color: white;
+      padding: 15px;
+    }

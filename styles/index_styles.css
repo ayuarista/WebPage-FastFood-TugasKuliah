@@ -1,0 +1,68 @@
+html
+{
+    position: relative;
+    min-height: 100%;
+}
+
+
+
+#leftdiv {
+     padding-top: 50px;   
+    padding-bottom: 50px;
+}
+
+#rightdiv {
+    padding-bottom: 50px;
+}
+
+
+
+.img-responsive {
+display: block;
+max-width: 100%;
+height: auto;}
+
+.input[name=search] {
+    width: 190px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    
+}
+
+input[name=search]:focus {
+    width: 100%;
+}
+
+.row
+{
+
+  margin-bottom: 0px; 
+}
+
+body
+{
+  margin-bottom: 0px;  
+}
+
+
+.bg-2 {
+    background: white;
+    color:black;
+}
+.bg-1 {
+    background: #2d2d30;
+    color: #bdbdbd;
+}
+
+footer {
+      background-color: #2d2d30;
+      margin-top: 5px
+      color: #2d2d30;
+    }
+
+
+.foot {
+
+    background: #50394c;
+    color: #bdbdbd;
+}
